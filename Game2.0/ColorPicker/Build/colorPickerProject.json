@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "colorPickerProject.data.unityweb",
+"asmCodeUrl": "colorPickerProject.asm.code.unityweb",
+"asmMemoryUrl": "colorPickerProject.asm.memory.unityweb",
+"asmFrameworkUrl": "colorPickerProject.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}

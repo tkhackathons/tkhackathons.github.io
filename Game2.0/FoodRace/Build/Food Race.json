@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Food Race.data.unityweb",
+"asmCodeUrl": "Food Race.asm.code.unityweb",
+"asmMemoryUrl": "Food Race.asm.memory.unityweb",
+"asmFrameworkUrl": "Food Race.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#222C36"
+}
