@@ -1,0 +1,188 @@
+{"frames": {
+
+"bullet-upgraded.png":
+{
+	"frame": {"x":487,"y":147,"w":20,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":45},
+	"sourceSize": {"w":20,"h":45}
+},
+"bullet.png":
+{
+	"frame": {"x":487,"y":100,"w":20,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":20,"h":45},
+	"sourceSize": {"w":20,"h":45}
+},
+"bulletType3.png":
+{
+	"frame": {"x":154,"y":2,"w":30,"h":45},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":30,"h":45},
+	"sourceSize": {"w":30,"h":45}
+},
+"glass-break.png":
+{
+	"frame": {"x":214,"y":102,"w":18,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":200},
+	"sourceSize": {"w":18,"h":200}
+},
+"glass.png":
+{
+	"frame": {"x":194,"y":102,"w":18,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":200},
+	"sourceSize": {"w":18,"h":200}
+},
+"glassType2-break.png":
+{
+	"frame": {"x":62,"y":317,"w":18,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":160},
+	"sourceSize": {"w":18,"h":160}
+},
+"glassType2.png":
+{
+	"frame": {"x":42,"y":317,"w":18,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":160},
+	"sourceSize": {"w":18,"h":160}
+},
+"gun.png":
+{
+	"frame": {"x":2,"y":479,"w":131,"h":30},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":131,"h":30},
+	"sourceSize": {"w":131,"h":30}
+},
+"mexican1.png":
+{
+	"frame": {"x":410,"y":2,"w":100,"h":96},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":3,"w":100,"h":96},
+	"sourceSize": {"w":100,"h":100}
+},
+"mexican2.png":
+{
+	"frame": {"x":308,"y":2,"w":100,"h":98},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":100,"h":98},
+	"sourceSize": {"w":100,"h":100}
+},
+"mexican3.png":
+{
+	"frame": {"x":143,"y":317,"w":98,"h":100},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":0,"w":98,"h":100},
+	"sourceSize": {"w":100,"h":100}
+},
+"rockCircle-break.png":
+{
+	"frame": {"x":410,"y":100,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75}
+},
+"rockCircle.png":
+{
+	"frame": {"x":135,"y":434,"w":75,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":75},
+	"sourceSize": {"w":75,"h":75}
+},
+"rockRectangle-break.png":
+{
+	"frame": {"x":214,"y":44,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":84,"h":40}
+},
+"rockRectangle.png":
+{
+	"frame": {"x":214,"y":2,"w":84,"h":40},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":84,"h":40},
+	"sourceSize": {"w":84,"h":40}
+},
+"stand.png":
+{
+	"frame": {"x":212,"y":419,"w":94,"h":80},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":94,"h":80},
+	"sourceSize": {"w":94,"h":80}
+},
+"trump.png":
+{
+	"frame": {"x":82,"y":317,"w":59,"h":115},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":59,"h":115},
+	"sourceSize": {"w":59,"h":115}
+},
+"wall.png":
+{
+	"frame": {"x":2,"y":2,"w":150,"h":313},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":150,"h":313},
+	"sourceSize": {"w":150,"h":313}
+},
+"wood-break.png":
+{
+	"frame": {"x":174,"y":102,"w":18,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":200},
+	"sourceSize": {"w":18,"h":200}
+},
+"wood.png":
+{
+	"frame": {"x":154,"y":102,"w":18,"h":200},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":200},
+	"sourceSize": {"w":18,"h":200}
+},
+"woodType2-break.png":
+{
+	"frame": {"x":22,"y":317,"w":18,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":160},
+	"sourceSize": {"w":18,"h":160}
+},
+"woodType2.png":
+{
+	"frame": {"x":2,"y":317,"w":18,"h":160},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":18,"h":160},
+	"sourceSize": {"w":18,"h":160}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "assets.png",
+	"format": "RGBA8888",
+	"size": {"w":512,"h":512},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:52c8d011a3a5e606a65e5867ddde8992:1/1$"
+}
+}
